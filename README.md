@@ -1,0 +1,2 @@
+# KNN_Exercise_Classified_Data
+KNN: Using KNN to create a model that directly predicts a class for a new data point based off of the features of a "classified" data set. Exercise uses Scikitlearn to run KNN and ascertain the optimal K value. Project uses Numpy, Pandas, Matplotlib, and Scikitlearn with logistic regression and K Nearest Neighbors (with Python), as well as the elbow method to pick a good K value.
